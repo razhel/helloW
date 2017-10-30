@@ -1,0 +1,2 @@
+echo $IMIE >> /tmp/wyjscie
+ls -l >> /tmp/wyjscie
